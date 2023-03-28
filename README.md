@@ -6,6 +6,8 @@ Boys planet is a reality competition show by Mnet, a South Korean television cha
 98 contestants were selected from thousands of applicants to join the show. 49 are South Korean contestants and 49 are from other countries.<br>
 The rankings of contestants are 100% by audiences voting. The voting weightage are divided into 50% South Korean votes and 50% international votes. In the first elimination, the top 52 contestants moved on to the next stage of the competition. In the second elimination, the top 28 contestants moved on the the semi finals. In the third elimination, the top 18 will move on to the finals. At the end of the competition, the top 9 contestants will form a new boy group.
 <br><br>
-  <h2> xx</h2>
+  <h2>Tableau Visualization</h2>
+  This is my very first solo work on Tableau so it isn't very nice yet but I'm going to work on my skills. 🥺 <a href="https://public.tableau.com/shared/CMBFB7H68?:display_count=n&:origin=viz_share_link">Tableau Public</a>
+  <a href="https://public.tableau.com/shared/CMBFB7H68?:display_count=n&:origin=viz_share_link"><img src="https://i.ibb.co/2jZKStS/First-visualization.png" alt="First-visualization" border="0"></a>
 
   </body>
